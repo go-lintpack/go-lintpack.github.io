@@ -4,7 +4,7 @@
 
 ### What is [go-lintpack](https://github.com/go-lintpack)?
 
-[go-lintpack](https://github.com/go-lintpack) refers to `lintpack`-related resources.
+[go-lintpack](https://github.com/go-lintpack) refers to `lintpack`-related projects.
 
 It includes:
 * [lintpack](https://github.com/go-lintpack/lintpack) itself that is a both a framework for writing Go static analyzers and a command-line utility that can build a linter out of these compatible packages.
