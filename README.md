@@ -1,4 +1,4 @@
-# lintpack-compatible Go static analysis packages archive
+# [lintpack-compatible](https://github.com/go-lintpack/lintpack) Go static analysis packages archive
 
 | Package | Description | Source |
 |---|---|---|
