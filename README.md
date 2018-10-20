@@ -9,7 +9,7 @@
 [go-lintpack](https://github.com/go-lintpack) refers to `lintpack`-related projects.
 
 It includes:
-* [lintpack](https://github.com/go-lintpack/lintpack) itself that is a both a framework for writing Go static analyzers and a command-line utility that can build a linter out of these compatible packages.
+* [lintpack](https://github.com/go-lintpack/lintpack) itself that is both a framework for writing Go static analyzers and a command-line utility that can build a linter out of these compatible packages.
 * This site, [go-lintpack.github.io](https://github.com/go-lintpack/go-lintpack.github.io), that acts like a moderated list of  checker providers. It may also provide a way to conveniently install and distribute linters built with `lintpack` in future.
 
 ## Source index
