@@ -3,5 +3,5 @@
 | Package | Description | Source |
 |---|---|---|
 | go-critic/checkers | [gocritic](https://go-critic.github.io) linter main checkers distribution | [github](https://github.com/go-critic/checkers) |
-| go-critic/checkers-contrib | [gocritic](https://go-critic.github.io) linter auxiliary checks submited by contributors.  | [github](https://github.com/go-critic/checkers-contrib) |
+| go-critic/checkers-contrib | [gocritic](https://go-critic.github.io) linter auxiliary checks submited by contributors | [github](https://github.com/go-critic/checkers-contrib) |
 | go-pedantic | Collection of somewhat opinionated style checks | [github](https://github.com/Quasilyte/go-pedantic) |
