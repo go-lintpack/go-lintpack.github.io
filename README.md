@@ -1,6 +1,8 @@
 # [lintpack-compatible](https://github.com/go-lintpack/lintpack) Go static analysis packages archive
 
-![logo](https://avatars2.githubusercontent.com/u/43554460?s=400&u=58fe1c0482a626200c8e99844a275e58bb79dbee&v=4)
+<p align="center">
+<img align="center" src="https://avatars2.githubusercontent.com/u/43554460?s=400&u=58fe1c0482a626200c8e99844a275e58bb79dbee&v=4" alt="go-lintpack-image"/>
+</p>
 
 ## Overview
 
